@@ -1,0 +1,4 @@
+{
+  "origins": ["https://eieland.net", "https://blog.lab.eieland.net", "http://localhost:4321"],
+  "defaultCommentOrder": "oldest"
+}
